@@ -1,10 +1,9 @@
-> Andrew Ferkel
-
-> Dr. Western
-
-> Western Civilization I
-
-> 5 September 2018
+----
+Name: Andrew Ferkel
+Professor: Dr. Western
+Class: Western Civilization I
+Date: 5 September 2018
+----
 
 ##Study Smarter, Not Harder
 
