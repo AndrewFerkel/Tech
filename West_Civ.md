@@ -5,9 +5,9 @@ class: Western Civilization I
 date: 5 September 2018
 ----
 
-## Study Smarter, Not Harder
+# Study Smarter, Not Harder
 
-# Make It Stick Extra Credit
+## Make It Stick Extra Credit
 
 Relative to my knowledge, AP United States History was indisputably the hardest course that I have ever taken. I would not wish it one anyone; and yet, like most crucibles of life, it inspired a new appreci ation within me. This time, that appreciation was focused towards perfecting learning. So, now, in a desperate attempt to sleep more than five hours, I appreciate informative segments such as this one. With that in mind, the writing inspired several thoughts. 
 	
