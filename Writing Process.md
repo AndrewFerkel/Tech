@@ -4,3 +4,4 @@
 
 One Improvement: Write regularly
 One Strength: Staying focused
+ 
